@@ -1,9 +1,9 @@
 # Emotion-analysis-of-Chinese-text-based-on-machine-learning
-文件介绍：
-Start.py：用来启动系统界面，实行人机交互；
-Word2vec_train.py：对使用到word2vec词向量生成方法的模型进行训练；
-Embedding_train.py：对使用到embedding词向量生成方法的模型进行训练；
-Stop_words.txt：停用词表；
+# 文件介绍：
+# Start.py：用来启动系统界面，实行人机交互；
+# Word2vec_train.py：对使用到word2vec词向量生成方法的模型进行训练；
+# Embedding_train.py：对使用到embedding词向量生成方法的模型进行训练；
+# Stop_words.txt：停用词表；
 
 文件夹介绍：
 model：存放了神经网络的模型代码
